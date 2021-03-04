@@ -1,0 +1,2 @@
+# nnkthaipage
+test nuxtjs static
